@@ -1,10 +1,11 @@
-# aiml-workshop-ml
+# Envision 22-23
 <!-- Header -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90515944/226154930-9de9dfa4-d42f-4c80-965d-82e70afc22a4.PNG" alt="Quark Logo" width="200" height="200">
 </p>
 
-<h1 align="center">Team Quark AI/ML Workshop 🚀</h1>
+<h1 align="center">Envision 22-23 🚀</h1>
+<h2 align="center">The future is here, and it's powered by machine learning!</h2>
 <p align="center">
   <a href="#about">About</a> •
   <a href="#workshop-details">Workshop Details</a> •
@@ -14,6 +15,19 @@
   <a href="#contact-us">Contact Us</a> 
 </p>
 
+Get ready to experience the ultimate thrill! ENVISION, Our first-ever event is here to ignite your passion and make you part of something big.
+From cutting-edge presentations to hands-on workshops, this is the ultimate opportunity to take your skills to the next level. Join us for a mind-blowing journey into the world of artificial intelligence and machine learning.
+
+What does workshop offer you:
+
+✓ 🤓 Insightful expert speaker sessions
+
+✓ 🤩 Amazing deep learning projects
+
+✓ 📜 Certificate of participation
+
+✓ 🧭 Guidance on career opportunities in AI/ML
+
 <!-- About -->
 ## About
 
@@ -22,10 +36,9 @@ Quark is a technical club whose mission is to educate members about new emerging
 <!-- Workshop Details -->
 ## Workshop Details 
 
-Our AI/ML Workshop will be a multiple event, where you will get to learn about the basics of AI/ML, its applications in the industry, and hands-on experience in building machine learning models as also their deployment on various platforms. The workshop will cover the following topics:
+Our AI/ML Workshop will be a multiple day event, where you will get to learn about the basics of AI/ML, its applications in the industry, and hands-on experience in building machine learning models as also their deployment on various platforms. The workshop will cover the following topics:
 
 * 🤖 Introduction to AI/ML
-* 🔍 Supervised Learning
 * 🧠 Deep Learning
 * 💬 Natural Language Processing (NLP)
 * 🕵️ Hands on projects
@@ -90,3 +103,4 @@ We also recommend checking out the following tutorials:
 We also recommend checking out the following tutorials:
 - [Building a Machine Learning App with Flutter](https://heartbeat.fritz.ai/building-a-machine-learning-app-with-flutter-71699b43d954)
 - [How to Deploy a Machine Learning Model to React Native](https://heartbeat.fritz.ai/how-to-deploy-a-machine-learning-model-to-react-native-647eebdb6e2c)
+
